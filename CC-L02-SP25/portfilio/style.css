@@ -10,7 +10,7 @@ body {
   margin: 20px 0; /* Add spacing around the title */
 }
 
-/* Resize the profile image */
+
 #profile {
   width: 150px; /* Set the width to make it smaller */
   height: auto; /* Maintain the image aspect ratio */
@@ -18,7 +18,6 @@ body {
   margin: 20px auto; /* Center the image */
 }
 
-/* Style for the links */
 a {
   display: block; /* Make links stack vertically */
   text-align: center; /* Center the text */
@@ -28,7 +27,6 @@ a {
   font-family: Arial, sans-serif; /* Use a clean font for links */
 }
 
-/* Change link appearance on hover */
 a:hover {
   text-decoration: underline; /* Underline links when hovered */
 }
