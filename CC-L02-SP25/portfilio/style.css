@@ -1,6 +1,34 @@
+
 body {
-  background-color:#87c0d6;
+  background-color: #87c0d6;
 }
- .p1 {
-  font-family: "Times New Roman", Times, serif;
+
+.large-title {
+  font-size: 3em; /* Large text size */
+  font-weight: bold; /* Bold text */
+  text-align: center; /* Center the title */
+  margin: 20px 0; /* Add spacing around the title */
+}
+
+/* Resize the profile image */
+#profile {
+  width: 150px; /* Set the width to make it smaller */
+  height: auto; /* Maintain the image aspect ratio */
+  display: block; /* Makes the image block-level for centering */
+  margin: 20px auto; /* Center the image */
+}
+
+/* Style for the links */
+a {
+  display: block; /* Make links stack vertically */
+  text-align: center; /* Center the text */
+  margin: 10px 0; /* Add spacing between links */
+  text-decoration: none; /* Remove underline from links */
+  color: #0073e6; /* Set a pleasant blue color */
+  font-family: Arial, sans-serif; /* Use a clean font for links */
+}
+
+/* Change link appearance on hover */
+a:hover {
+  text-decoration: underline; /* Underline links when hovered */
 }
