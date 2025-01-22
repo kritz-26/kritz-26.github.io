@@ -12,7 +12,7 @@ body {
 
 #Portrait of Kylie Ritz {
   width: 50px; 
-  height: 50px; 
+  height: auto; 
   display: block;
   margin: 20px auto; 
 }
