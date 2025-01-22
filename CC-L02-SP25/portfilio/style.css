@@ -10,13 +10,10 @@ body {
   margin: 20px 0; 
 }
 
-#Portrait of Kylie Ritz {
-  width: 50px; 
-  height: auto; 
-  display: block;
-  margin: 20px auto; 
+img {
+  width: 50%;
+  height: auto;
 }
-
  {
   display: block; 
   text-align: center; 
